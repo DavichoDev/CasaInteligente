@@ -4,7 +4,7 @@ import { map } from 'rxjs/operators';
 
 
 // const API_URL = `https://adminpro-backend-angular.herokuapp.com/api/arduino`;
-const API_URL = `http://localhost:3000/api/arduino`;
+const API_URL = `https://adminpro-backend-angular.herokuapp.com/api/arduino`;
 const ID_DISPOSITIVO = `5fdb73490219fe047cc79df3`;
 
 @Injectable({
